@@ -10,6 +10,7 @@ public class HelloWorld {
     final LocalDateTime now = LocalDateTime.now();
 
     System.out.println("Hello, Vasu! The current time is " + dtf.format(now));
+    System.out.println("hi,deaar! The current time is " + dtf.format(now));
   }
 
 }
